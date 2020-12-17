@@ -1,5 +1,6 @@
 # Homework2
 my Bet System
+by Kononenko Yevhen
 
 Here is a second PM Tech Academy homework.
 
